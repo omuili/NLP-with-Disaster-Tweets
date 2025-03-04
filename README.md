@@ -48,9 +48,9 @@ I experimented with several deep learning architectures:
 
 ### 4. Results
 
-- Best validation accuracy: X.XX
-- Best F1 score: X.XX
-- Kaggle competition score: X.XXX
+- Best validation accuracy: 0.7958
+- Best F1 score: 0.7598
+- Kaggle competition score: 0.77627
 
 ## How to Run
 
